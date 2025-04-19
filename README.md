@@ -62,3 +62,19 @@ start https://www.google.com/search?q=Postman
 start https://www.google.com/search?q=PCMANAGER
 start https://www.google.com/search?q=Tyrrrz
 ```
+```bash
+@echo off
+start https://www.google.com/search?q=stress+test+software
+start https://www.google.com/search?q=MSI+Kombustor+download
+start https://www.google.com/search?q=HeavyLoad+download
+start https://www.google.com/search?q=Geekbench+download
+start https://www.google.com/search?q=Cinebench+R23+download
+start https://www.google.com/search?q=FurMark+download
+start https://www.google.com/search?q=HWiNFO+download
+start https://www.google.com/search?q=Unigine+Heaven+Benchmark+download
+start https://www.google.com/search?q=OCCT+download
+start https://www.google.com/search?q=Prime95+stress+test+download
+start https://www.google.com/search?q=AIDA64+Extreme+download
+start https://www.google.com/search?q=IntelBurnTest+download
+start https://www.google.com/search?q=PassMark+PerformanceTest+download
+```
