@@ -43,3 +43,22 @@ Ready to get your system set up? Here are some handy commands:
      choco install ffmpeg
 
 ## in future I'd like to make it automatatic
+```bash
+@echo off
+start https://www.google.com/search?q=ChromeDownload
+start https://www.google.com/search?q=VSCode
+start https://www.google.com/search?q=DevCppDownload
+start https://www.google.com/search?q=TelegramDownload
+start https://www.google.com/search?q=GitDownload
+start https://www.google.com/search?q=AndroidStudio
+start https://www.google.com/search?q=TreeSizeFree
+start https://www.google.com/search?q=AOMEI
+start https://www.google.com/search?q=WPSffice
+start https://www.google.com/search?q=VLCMediaPlayer
+start https://www.google.com/search?q=HotspotShield
+start https://www.google.com/search?q=WinRAR
+start https://www.google.com/search?q=AvastAntivirus
+start https://www.google.com/search?q=Postman
+start https://www.google.com/search?q=PCMANAGER
+start https://www.google.com/search?q=Tyrrrz
+```
